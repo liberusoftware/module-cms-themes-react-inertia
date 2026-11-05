@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-themes-react-inertia",
+  "capabilityKey": "liberusoftware/module-cms-themes",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-cms-themes-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/cms/nextjs/cms-themes.md",
+  "presentationPlan": "projects/cms/react/cms-themes.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
